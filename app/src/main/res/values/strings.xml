@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P0661_AlertDialogOperations</string>
+    <string name="dialog">Dialog</string>
+    <string name="create_dialog">Create dialog</string>
+    <string name="dialog_title">Title</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_show">Dialog show</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_dismiss">Dismiss</string>
+</resources>
